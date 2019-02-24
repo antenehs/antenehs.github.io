@@ -1,0 +1,26 @@
+{
+    "USD": {
+        "_id": "USD",
+        "name": "Dollars",
+        "symbol": "$",
+        "exchange": 1.0
+    },
+    "BHT": {
+        "_id": "BHT",
+        "name": "Baht",
+        "symbol": "à¸¿",
+        "exchange": 35.01
+    },
+    "EUR": {
+        "_id": "EUR",
+        "name": "Euro",
+        "symbol": "â‚¬",
+        "exchange": 0.9
+    },
+    "YEN": {
+        "_id": "YEN",
+        "name": "Yen",
+        "symbol": "Â¥",
+        "exchange": 101.21
+    }
+}
